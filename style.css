@@ -33,5 +33,13 @@ nav{
     text-decoration: none;
     letter-spacing: 3px;
     font-weight: bold;
-    fon
+    
 }
+
+.burger div{
+    width: 25px;
+    height: 5px;
+    background-color:rgb(226,226,226);
+    margin: 5px;
+}
+
